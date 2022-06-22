@@ -6,6 +6,6 @@ This is an FWD react Nanodegree Project.
 ## How to install
 
 To get started developing right away:
-- Go to the application directory with `cd/BookApp/starter`
+- Go to the application directory with `cd/BookApp/`
 - install all project dependencies with `npm install`
 - start the development server with `npm start`
